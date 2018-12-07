@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306388023072",
+    "firebase_url": "https://newsorgudacity.firebaseio.com",
+    "project_id": "newsorgudacity",
+    "storage_bucket": "newsorgudacity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306388023072:android:5c7d5455951b83b3",
+        "android_client_info": {
+          "package_name": "capstone.kurosaki.newsorg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306388023072-nvcr2jg4dafeie9oolnum1lqhquomgmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "capstone.kurosaki.newsorg",
+            "certificate_hash": "145036d91b928be1fe5785b871df67c0986c6fee"
+          }
+        },
+        {
+          "client_id": "306388023072-pkhb361nbbnolq47qa6q2rdua6kc12dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-l3cfa2e5zbrNnB6kchns3nyUD4_b9h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306388023072-pkhb361nbbnolq47qa6q2rdua6kc12dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
