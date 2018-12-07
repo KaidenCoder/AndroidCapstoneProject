@@ -1,7 +1,7 @@
 # AndroidCapstoneProject
 This is my final project of Android Developer Nanodegree Course from Udacity.
 
-**News App** is an app which display a list of selected topic news and the api for this app has been taken from https://newsapi.org/
+**News Org** is an app which display a list of selected topic news and the api for this app has been taken from https://newsapi.org/
 In this app, you can see the news headlines, details and you can bookmark your news. The widget for this app displays the bookmarked news which when pressed will direct you to the particular news details in the app.
 
 ### Features
